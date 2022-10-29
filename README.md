@@ -1,4 +1,4 @@
-# :game_die: Hangman (Javascript version)
+# :game_die: Hangman
 
 Hangman is a popular yet grim puzzle game. 
 
